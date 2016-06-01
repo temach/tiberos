@@ -23,3 +23,4 @@ Usefull resources:
 5. Grub booting: 
   * http://thestarman.pcministry.com/asm/mbr/GRUB.htm
   * http://unix.stackexchange.com/questions/259143/how-does-grub-stage1-exactly-access-load-stage-2
+  * http://www.dedoimedo.com/computers/grub-2.html
