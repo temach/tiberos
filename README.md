@@ -20,3 +20,6 @@ Usefull resources:
 
 4. Making iso from compiled kernel code so it can be burned to CD/USB: http://www.gnu.org/software/grub/manual/html_node/Making-a-GRUB-bootable-CD_002dROM.html 
 
+5. Grub booting: 
+  * http://thestarman.pcministry.com/asm/mbr/GRUB.htm
+  * http://unix.stackexchange.com/questions/259143/how-does-grub-stage1-exactly-access-load-stage-2
