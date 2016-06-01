@@ -1,8 +1,15 @@
 # tiberos
 Simple kernel
 
+Also useful books: http://wiki.osdev.org/Books#Compiler_Theory
 
 Usefull resources:
+
+0. Some books:
+  * http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf
+  * https://pdos.csail.mit.edu/6.828/2014/xv6/book-rev8.pdf
+  * https://www.inf.ethz.ch/personal/wirth/ProjectOberon/PO.System.pdf
+  * http://wiki.osdev.org/Bare_Bones
 
 1. Should you use .elf or .bin files for your kernel and programs: http://stackoverflow.com/questions/34129461/should-i-make-my-own-os-kernel-elf-or-raw-binary
 
