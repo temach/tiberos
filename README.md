@@ -26,3 +26,5 @@ Usefull resources:
   * http://www.dedoimedo.com/computers/grub-2.html
 
 6. This is programming for UEFI, but linker flags are still useful: http://www.rodsbooks.com/efi-programming/hello.html
+
+7. Linux boot process by IBM, nice details: http://www.ibm.com/developerworks/linux/library/l-linuxboot/l-linuxboot-pdf.pdf
