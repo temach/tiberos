@@ -24,3 +24,5 @@ Usefull resources:
   * http://thestarman.pcministry.com/asm/mbr/GRUB.htm
   * http://unix.stackexchange.com/questions/259143/how-does-grub-stage1-exactly-access-load-stage-2
   * http://www.dedoimedo.com/computers/grub-2.html
+
+6. This is programming for UEFI, but linker flags are still useful: http://www.rodsbooks.com/efi-programming/hello.html
