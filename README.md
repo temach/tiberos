@@ -27,4 +27,6 @@ Usefull resources:
 
 6. This is programming for UEFI, but linker flags are still useful: http://www.rodsbooks.com/efi-programming/hello.html
 
-7. Linux boot process by IBM, nice details: http://www.ibm.com/developerworks/linux/library/l-linuxboot/l-linuxboot-pdf.pdf
+7. Boot process (grub/lilo/windows/etc.) nice details: 
+  * http://www.ibm.com/developerworks/linux/library/l-linuxboot/l-linuxboot-pdf.pdf
+  * https://neosmart.net/wiki/mbr-boot-process/
