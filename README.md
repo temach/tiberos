@@ -32,3 +32,6 @@ Usefull resources:
   * https://neosmart.net/wiki/mbr-boot-process/
 
 8. Booting with a chainloader instead of via multiboot: http://stackoverflow.com/questions/17909429/booting-a-non-multiboot-kernel-with-grub2
+
+9. Working example of bare metal tetris on x86: https://github.com/programble/bare-metal-tetris 
+
