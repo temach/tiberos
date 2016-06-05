@@ -30,3 +30,5 @@ Usefull resources:
 7. Boot process (grub/lilo/windows/etc.) nice details: 
   * http://www.ibm.com/developerworks/linux/library/l-linuxboot/l-linuxboot-pdf.pdf
   * https://neosmart.net/wiki/mbr-boot-process/
+
+8. Booting with a chainloader instead of via multiboot: http://stackoverflow.com/questions/17909429/booting-a-non-multiboot-kernel-with-grub2
