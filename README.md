@@ -35,3 +35,4 @@ Usefull resources:
 
 9. Working example of bare metal tetris on x86: https://github.com/programble/bare-metal-tetris 
 
+10. Simple OS to fit into 512 bootloader sector: http://mikeos.sourceforge.net/write-your-own-os.html
