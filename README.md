@@ -10,6 +10,7 @@ Usefull resources:
   * https://pdos.csail.mit.edu/6.828/2014/xv6/book-rev8.pdf
   * https://www.inf.ethz.ch/personal/wirth/ProjectOberon/PO.System.pdf
   * http://wiki.osdev.org/Bare_Bones
+  * Tutorials: http://www.osdever.net/tutorials/
 
 1. Should you use .elf or .bin files for your kernel and programs: http://stackoverflow.com/questions/34129461/should-i-make-my-own-os-kernel-elf-or-raw-binary
 
